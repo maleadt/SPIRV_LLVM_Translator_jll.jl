@@ -1,0 +1,10 @@
+[[SPIRV_LLVM_Translator]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8dea94016f2360ff4946bb9588a7d28d11ab06e5"
+libc = "glibc"
+os = "linux"
+
+    [[SPIRV_LLVM_Translator.download]]
+    sha256 = "2393fd3fa205b84870769e567bae2fe583761f7ec91775aeeb57a96d3726236b"
+    url = "https://github.com/maleadt/SPIRV_LLVM_Translator_jll.jl/releases/download/SPIRV_LLVM_Translator-v11.0.0+0/SPIRV_LLVM_Translator.v11.0.0.x86_64-linux-gnu-cxx11.tar.gz"
